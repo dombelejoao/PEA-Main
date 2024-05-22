@@ -1,0 +1,6 @@
+include ':app'
+rootProject.name = "Replica"
+include ':openCVLibrary2410'
+include ':java'
+include ':java'
+include ':openCVLibrary346'

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FF83AB</color>
+    <color name="blue_500">#FC3562</color>
+    <color name="teal_200">#78FF3D</color>
+    <color name="teal_700">#267C00</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="grey">#C9D6DF</color>
+    <color name="grey_500">#9e9e9e</color>
+
+    <!-- Figure colors -->
+    <color name="node">#C1274A</color>
+</resources>

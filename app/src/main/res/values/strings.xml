@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Photo Editor</string>
+    <string name="open_photo">OPEN</string>
+    <string name="nav_photo">Photo</string>
+    <string name="nav_spline">Splines</string>
+    <string name="nav_figure">Cube</string>
+
+    <string name="dialog_take_photo">Take a Photo</string>
+    <string name="dialog_open_photo">Select From Gallery</string>
+    <string name="dialog_dismiss">Cancel</string>
+
+    <string name="storage_permission_denied">Gallery Access Code</string>
+    <string name="camera_permission_denied">No Access to the camera</string>
+    <string name="do_not_ask_again_option_on">Allow access in the settings</string>
+
+    <string name="taking_photo_error">Error when Photographing</string>
+    <string name="picture_not_found">Error! Upload a photo</string>
+
+    <string name="photo_desc">Your photo</string>
+
+    <string name="color_correction_desc">Color Correction</string>
+    <string name="face_ai_desc">Face recognition</string>
+    <string name="filtering_desc">Bilinear and Trilinear Filtering</string>
+    <string name="maskering_desc">Blurred Masking</string>
+    <string name="retouch_desc">Retouching</string>
+    <string name="rotating_desc">Image Rotation</string>
+    <string name="scale_desc">Image Scaling</string>
+
+    <string name="accept_changes_desc">Accept changes</string>
+    <string name="decline_changes_desc">Decline changes</string>
+
+    <string name="default_scale_factor">1.0</string>
+    <string name="scale_image_ratio">%d:%d</string>
+
+    <string name="start_points">Starting points</string>
+    <string name="finish_points">Ending points</string>
+    <string name="points_state">Show the start or end points dots</string>
+    <string name="clear_points">Clear the points</string>
+    <string name="filter">Run the algorithm</string>
+    <string name="not_enough_points">Not enough points</string>
+
+    <string name="delete_point">Delete Point</string>
+    <string name="add_point">Add Point</string>
+    <string name="draw_spline">Draw Spline</string>
+    <string name="clear_field">Clear Field</string>
+    <string name="move_point">Move Point</string>
+    <string name="spline_error">Add more points</string>
+
+    <string name="faces_range">Number of faces</string>
+    <string name="rotation_by_z">Rotation by Z</string>
+
+    <string name="picture_saved">Photo saving completed</string>
+    <string name="save_error">An error occurred while uploading a photo</string>
+
+    <string name="faces_detected">Faces detected: %d</string>
+    <string name="maskering_t">T</string>
+    <string name="maskering_0">0</string>
+    <string name="maskering_a">A</string>
+    <string name="maskering_r">R</string>
+    <string name="maskering">Masking</string>
+    <string name="maskering_1">1</string>
+    <string name="retouching_a">A</string>
+    <string name="retouching_r">R</string>
+    <string name="retouching_20">20</string>
+    <string name="retouching_1">1</string>
+</resources>
